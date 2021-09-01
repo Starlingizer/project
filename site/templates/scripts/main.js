@@ -189,22 +189,22 @@ function concatValues( obj ) {
 
 
   // Marquee
-  // $('.marquee').marquee({
-  //   duplicated: true,
-  //   gap: 30,
-  //   duration: 10000,
-  //   delayBeforeStart: 0,
-  //   startVisible: true
-  // });
-  //
-  // $('.marqueenews').marquee({
-  //   duplicated: true,
-  //   gap: 0,
-  //   duration: 4000,
-  //   delayBeforeStart: 0,
-  //   startVisible: true,
-  //   pauseOnHover: true
-  // });
+   $('.marquee').marquee({
+     duplicated: true,
+     gap: 30,
+     duration: 10000,
+     delayBeforeStart: 0,
+     startVisible: true
+   });
+  
+   $('.marqueenews').marquee({
+     duplicated: true,
+     gap: 0,
+     duration: 4000,
+     delayBeforeStart: 0,
+     startVisible: true,
+     pauseOnHover: true
+   });
 
   Marquee3k.init();
 
