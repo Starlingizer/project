@@ -79,3 +79,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: &#39;paxalah&#39;;
+    src: url('Paxalah_v1.0.otf');
+        src: url('Paxalah_v1.0.woff');
+
+    
+    font-weight: 100;
+    font-style: normal;
+} 
