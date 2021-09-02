@@ -210,7 +210,7 @@ header .nav {
 header .nav li {
   display: inline;
   width: 14.2%;
-  float: left;
+  float:center;
   padding-top: 2px;
 font-family: millimetre;
 }
