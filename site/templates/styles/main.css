@@ -526,7 +526,7 @@ header .news.opened {
 }
 
 .about p, .donatePop p{
-	font-size : 0.55em;
+	font-size : 1em;
 	line-height : 1.3em;
 	font-family : sporting_grotesque, arial;
 	hyphens: auto;
